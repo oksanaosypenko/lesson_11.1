@@ -119,7 +119,9 @@ body {
 .grid-item:nth-child(2) {
     margin-top: 100px;
 }
-
+#img {
+    object-fit: cover;
+}
 .item-title h1 {
         font-size: 90px;
         font-family: 'Raleway', sans-serif;
